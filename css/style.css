@@ -635,7 +635,7 @@ h1, h2, h3, h4, h5,
     z-index: 10;
     position: relative; }
   .intro-section, .intro-section .container .row {
-    height: 60vh;
+    height: 80vh;
     min-height: 200px; }
   .intro-section:before {
     content: "";
